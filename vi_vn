@@ -1,0 +1,991 @@
+# #############################
+# #       [A-U-T-H-O-R]       #
+# #        B-I-N-B-E-O        #  
+# #############################
+block_acacia_button.PREFIX: Nút gỗ xiêm gai
+block_acacia_door.PREFIX: Cửa gỗ xiêm gai
+block_acacia_fence.PREFIX: Hàng rào gỗ xiêm gai
+block_acacia_fence_gate.PREFIX: Cổng rào gỗ xiêm gai
+block_acacia_leaves.PREFIX: Lá xiêm gai
+block_acacia_log.PREFIX: Thân cây xiêm gai
+block_acacia_planks.PREFIX: Ván gỗ xiêm gai
+block_acacia_pressure_plate.PREFIX: Đĩa cảm biến áp lực gỗ xiêm gai
+block_acacia_sapling.PREFIX: Chồi cây xiêm gai
+block_acacia_sign.PREFIX: Tấm biển gỗ xiêm gai
+block_acacia_slab.PREFIX: Phiến gỗ xiêm gai
+block_acacia_stairs.PREFIX: Cầu thang gỗ xiêm gai
+block_acacia_trapdoor.PREFIX: Cửa sập gỗ xiêm gai
+block_acacia_wood.PREFIX: Gỗ xiêm gai
+block_activator_rail.PREFIX: Đường ray kích hoạt
+block_allium.PREFIX: Hành tím
+block_andesite.PREFIX: Đá andesit
+block_andesite_slab.PREFIX: Phiến đá andesit
+block_andesite_stairs.PREFIX: Cầu thang đá andesit
+block_andesite_wall.PREFIX: Tường đá andesit
+block_anvil.PREFIX: Cái đe
+block_azure_bluet.PREFIX: Thiến thảo xanh
+block_bamboo.PREFIX: Cây tre
+block_bamboo_sapling.PREFIX: Chồi cây tre
+block_barrel.PREFIX: Thùng
+block_barrier.PREFIX: Rào chắn
+block_beacon.PREFIX: Đèn hiệu
+block_bedrock.PREFIX: Đá nền
+block_bee_nest.PREFIX: Tổ ong tự nhiên
+block_beehive.PREFIX: Tổ ong nhân tạo
+block_bell.PREFIX: Chuông
+block_birch_button.PREFIX: Nút gỗ bạch dương
+block_birch_door.PREFIX: Cửa gỗ bạch dương
+block_birch_fence.PREFIX: Hàng rào gỗ bạch dương
+block_birch_fence_gate.PREFIX: Cổng rào gỗ bạch dương
+block_birch_leaves.PREFIX: Lá bạch dương
+block_birch_log.PREFIX: Thân cây bạch dương
+block_birch_planks.PREFIX: Ván gỗ bạch dương
+block_birch_pressure_plate.PREFIX: Đĩa cảm biến áp lực gỗ bạch dương
+block_birch_sapling.PREFIX: Chồi cây bạch dương
+block_birch_sign.PREFIX: Tấm biển gỗ bạch dương
+block_birch_slab.PREFIX: Phiến gỗ bạch dương
+block_birch_stairs.PREFIX: Cầu thang gỗ bạch dương
+block_birch_trapdoor.PREFIX: Cửa sập gỗ bạch dương
+block_birch_wood.PREFIX: Gỗ bạch dương
+block_black_banner.PREFIX: Cờ hiệu đen
+block_black_bed.PREFIX: Giường đen
+block_black_carpet.PREFIX: Thảm đen
+block_black_concrete.PREFIX: Bê tông đen
+block_black_concrete_powder.PREFIX: Bột bê tông đen
+block_black_glazed_terracotta.PREFIX: Đất nung tráng men đen
+block_black_shulker_box.PREFIX: Hộp Shulker đen
+block_black_stained_glass.PREFIX: Thủy tinh được nhuộm đen
+block_black_stained_glass_pane.PREFIX: Tấm thủy tinh được nhuộm đen
+block_black_terracotta.PREFIX: Đất nung đen
+block_black_wool.PREFIX: Len đen
+block_blast_furnace.PREFIX: Lò luyện kim
+block_blue_banner.PREFIX: Cờ hiệu xanh nước biển
+block_blue_bed.PREFIX: Giường xanh nước biển
+block_blue_carpet.PREFIX: Thảm xanh nước biển
+block_blue_concrete.PREFIX: Bê tông xanh nước biển
+block_blue_concrete_powder.PREFIX: Bột bê tông xanh nước biển
+block_blue_glazed_terracotta.PREFIX: Đất nung tráng men xanh nước biển
+block_blue_ice.PREFIX: Băng xanh
+block_blue_orchid.PREFIX: Phong lan xanh
+block_blue_shulker_box.PREFIX: Hộp Shulker xanh nước biển
+block_blue_stained_glass.PREFIX: Thủy tinh được nhuộm xanh nước biển
+block_blue_stained_glass_pane.PREFIX: Tấm thủy tinh được nhuộm xanh nước biển
+block_blue_terracotta.PREFIX: Đất nung xanh nước biển
+block_blue_wool.PREFIX: Len xanh nước biển
+block_bone_block.PREFIX: Khối xương
+block_bookshelf.PREFIX: Kệ sách
+block_brain_coral.PREFIX: San hô não
+block_brain_coral_block.PREFIX: Khối san hô não
+block_brain_coral_fan.PREFIX: San hô não hình quạt
+block_brewing_stand.PREFIX: Giàn pha thuốc
+block_brick_slab.PREFIX: Phiến gạch
+block_brick_stairs.PREFIX: Cầu thang gạch
+block_brick_wall.PREFIX: Tường gạch
+block_bricks.PREFIX: Gạch
+block_brown_banner.PREFIX: Cờ hiệu nâu
+block_brown_bed.PREFIX: Giường nâu
+block_brown_carpet.PREFIX: Thảm nâu
+block_brown_concrete.PREFIX: Bê tông nâu
+block_brown_concrete_powder.PREFIX: Bột bê tông nâu
+block_brown_glazed_terracotta.PREFIX: Đất nung tráng men nâu
+block_brown_mushroom.PREFIX: Nấm nâu
+block_brown_mushroom_block.PREFIX: Khối nấm nâu
+block_brown_shulker_box.PREFIX: Hộp Shulker nâu
+block_brown_stained_glass.PREFIX: Thủy tinh được nhuộm nâu
+block_brown_stained_glass_pane.PREFIX: Tấm thủy tinh được nhuộm nâu
+block_brown_terracotta.PREFIX: Đất nung nâu
+block_brown_wool.PREFIX: Len nâu
+block_bubble_coral.PREFIX: San hô bong bóng
+block_bubble_coral_block.PREFIX: Khối san hô bong bóng
+block_bubble_coral_fan.PREFIX: San hô bong bóng hình quạt
+block_cactus.PREFIX: Cây xương rồng
+block_cake.PREFIX: Bánh ngọt
+block_campfire.PREFIX: Lửa trại
+block_carrots.PREFIX: Cà rốt
+block_cartography_table.PREFIX: Bàn vẽ bản đồ
+block_carved_pumpkin.PREFIX: Bí ngô được khắc
+block_cauldron.PREFIX: Vạc
+block_chain_command_block.PREFIX: Khối điều khiển liền chuỗi
+block_chest.PREFIX: Rương
+block_chipped_anvil.PREFIX: Cái đe bị nứt
+block_chiseled_quartz_block.PREFIX: Khối thạch anh được đục
+block_chiseled_red_sandstone.PREFIX: Cát kết đỏ được đục
+block_chiseled_sandstone.PREFIX: Cát kết được đục
+block_chiseled_stone_bricks.PREFIX: Gạch đá được đục
+block_chorus_flower.PREFIX: Hoa Chorus
+block_chorus_plant.PREFIX: Cây Chorus
+block_clay.PREFIX: Đất sét
+block_coal_block.PREFIX: Khối than
+block_coal_ore.PREFIX: Quặng than
+block_coarse_dirt.PREFIX: Đất thô
+block_cobblestone.PREFIX: Đá cuội
+block_cobblestone_slab.PREFIX: Phiến đá cuội
+block_cobblestone_stairs.PREFIX: Cầu thang đá cuội
+block_cobblestone_wall.PREFIX: Tường đá cuội
+block_cobweb.PREFIX: Mạng nhện
+block_cocoa.PREFIX: Ca cao
+block_command_block.PREFIX: Khối điều khiển
+block_comparator.PREFIX: Mạch so sánh Redstone
+block_composter.PREFIX: Thùng ủ phân
+block_conduit.PREFIX: Ống dẫn
+block_cornflower.PREFIX: Thanh cúc
+block_cracked_stone_bricks.PREFIX: Gạch đá nứt
+block_crafting_table.PREFIX: Bàn chế tạo
+block_creeper_head.PREFIX: Đầu Creeper
+block_cut_red_sandstone.PREFIX: Cát kết đỏ được cắt
+block_cut_red_sandstone_slab.PREFIX: Phiến cát kết đỏ được cắt
+block_cut_sandstone.PREFIX: Cát kết được cắt
+block_cut_sandstone_slab.PREFIX: Phiến cát kết được cắt
+block_cyan_banner.PREFIX: Cờ hiệu lục lam
+block_cyan_bed.PREFIX: Giường lục lam
+block_cyan_carpet.PREFIX: Thảm lục lam
+block_cyan_concrete.PREFIX: Bê tông lục lam
+block_cyan_concrete_powder.PREFIX: Bột bê tông lục lam
+block_cyan_glazed_terracotta.PREFIX: Đất nung tráng men lục lam
+block_cyan_shulker_box.PREFIX: Hộp Shulker lục lam
+block_cyan_stained_glass.PREFIX: Thủy tinh được nhuộm lục lam
+block_cyan_stained_glass_pane.PREFIX: Tấm thủy tinh được nhuộm lục lam
+block_cyan_terracotta.PREFIX: Đất nung lục lam
+block_cyan_wool.PREFIX: Len lục lam
+block_damaged_anvil.PREFIX: Cái đe bị hỏng
+block_dandelion.PREFIX: Bồ công anh
+block_dark_oak_button.PREFIX: Nút gỗ sồi sẫm
+block_dark_oak_door.PREFIX: Cửa gỗ sồi sẫm
+block_dark_oak_fence.PREFIX: Hàng rào gỗ sồi sẫm
+block_dark_oak_fence_gate.PREFIX: Cổng rào gỗ sồi sẫm
+block_dark_oak_leaves.PREFIX: Lá sồi sẫm
+block_dark_oak_log.PREFIX: Thân cây sồi sẫm
+block_dark_oak_planks.PREFIX: Ván gỗ sồi sẫm
+block_dark_oak_pressure_plate.PREFIX: Đĩa cảm biến áp lực gỗ sồi sẫm
+block_dark_oak_sapling.PREFIX: Chồi cây sồi sẫm
+block_dark_oak_sign.PREFIX: Tấm biển gỗ sồi sẫm
+block_dark_oak_slab.PREFIX: Phiến gỗ sồi sẫm
+block_dark_oak_stairs.PREFIX: Cầu thang gỗ sồi sẫm
+block_dark_oak_trapdoor.PREFIX: Cửa sập gỗ sồi sẫm
+block_dark_oak_wood.PREFIX: Gỗ sồi sẫm
+block_dark_prismarine.PREFIX: Lăng trụ biển sẫm màu
+block_dark_prismarine_slab.PREFIX: Phiến lăng trụ biển sẫm màu
+block_dark_prismarine_stairs.PREFIX: Cầu thang lăng trụ biển sẫm màu
+block_daylight_detector.PREFIX: Máy dò ánh sáng
+block_dead_brain_coral.PREFIX: San hô não chết
+block_dead_brain_coral_block.PREFIX: Khối san hô não chết
+block_dead_brain_coral_fan.PREFIX: San hô não hình quạt chết
+block_dead_bubble_coral.PREFIX: San hô bong bóng chết
+block_dead_bubble_coral_block.PREFIX: Khối san hô bong bóng chết
+block_dead_bubble_coral_fan.PREFIX: San hô bong bóng hình quạt chết
+block_dead_bush.PREFIX: Bụi cây khô
+block_dead_fire_coral.PREFIX: San hô lửa chết
+block_dead_fire_coral_block.PREFIX: Khối san hô lửa chết
+block_dead_fire_coral_fan.PREFIX: San hô lửa hình quạt chết
+block_dead_horn_coral.PREFIX: San hô sừng chết
+block_dead_horn_coral_block.PREFIX: Khối san hô sừng chết
+block_dead_horn_coral_fan.PREFIX: San hô sừng hình quạt chết
+block_dead_tube_coral.PREFIX: San hô ống tròn chết
+block_dead_tube_coral_block.PREFIX: Khối san hô ống tròn chết
+block_dead_tube_coral_fan.PREFIX: San hô ống tròn hình quạt chết
+block_detector_rail.PREFIX: Đường ray cảm biến
+block_diamond_block.PREFIX: Khối kim cương
+block_diamond_ore.PREFIX: Quặng kim cương
+block_diorite.PREFIX: Đá diorit
+block_diorite_slab.PREFIX: Phiến đá diorit
+block_diorite_stairs.PREFIX: Cầu thang đá diorit
+block_diorite_wall.PREFIX: Tường đá diorit
+block_dirt.PREFIX: Đất
+block_dispenser.PREFIX: Máy phân phát
+block_dragon_egg.PREFIX: Trứng rồng
+block_dragon_head.PREFIX: Đầu rồng
+block_dried_kelp_block.PREFIX: Khối tảo bẹ khô
+block_dropper.PREFIX: Máy thả
+block_emerald_block.PREFIX: Khối ngọc lục bảo
+block_emerald_ore.PREFIX: Quặng ngọc lục bảo
+block_enchanting_table.PREFIX: Bàn phù phép
+block_end_portal_frame.PREFIX: Khung cổng End
+block_end_rod.PREFIX: Thanh gậy End
+block_end_stone.PREFIX: Đá End
+block_end_stone_brick_slab.PREFIX: Phiến gạch đá End
+block_end_stone_brick_stairs.PREFIX: Cầu thang gạch đá End
+block_end_stone_brick_wall.PREFIX: Tường gạch đá End
+block_end_stone_bricks.PREFIX: Gạch đá End
+block_ender_chest.PREFIX: Rương Ender
+block_farmland.PREFIX: Đất ruộng
+block_fern.PREFIX: Dương xỉ
+block_fire_coral.PREFIX: San hô lửa
+block_fire_coral_block.PREFIX: Khối san hô lửa
+block_fire_coral_fan.PREFIX: San hô lửa hình quạt
+block_fletching_table.PREFIX: Bàn làm cung tên
+block_flower_pot.PREFIX: Chậu hoa
+block_furnace.PREFIX: Lò nung
+block_glass.PREFIX: Thủy tinh
+block_glass_pane.PREFIX: Tấm thủy tinh
+block_glowstone.PREFIX: Đá phát sáng
+block_gold_block.PREFIX: Khối vàng
+block_gold_ore.PREFIX: Quặng vàng
+block_granite.PREFIX: Đá hoa cương
+block_granite_slab.PREFIX: Phiến đá hoa cương
+block_granite_stairs.PREFIX: Cầu thang đá hoa cương
+block_granite_wall.PREFIX: Tường đá hoa cương
+block_grass.PREFIX: Cỏ
+block_grass_block.PREFIX: Khối cỏ
+block_grass_path.PREFIX: Đường đi trên cỏ
+block_gravel.PREFIX: Sỏi
+block_gray_banner.PREFIX: Cờ hiệu xám
+block_gray_bed.PREFIX: Giường xám
+block_gray_carpet.PREFIX: Thảm xám
+block_gray_concrete.PREFIX: Bê tông xám
+block_gray_concrete_powder.PREFIX: Bột bê tông xám
+block_gray_glazed_terracotta.PREFIX: Đất nung tráng men xám
+block_gray_shulker_box.PREFIX: Hộp Shulker xám
+block_gray_stained_glass.PREFIX: Thủy tinh được nhuộm xám
+block_gray_stained_glass_pane.PREFIX: Tấm thủy tinh được nhuộm xám
+block_gray_terracotta.PREFIX: Đất nung xám
+block_gray_wool.PREFIX: Len xám
+block_green_banner.PREFIX: Cờ hiệu xanh lá cây
+block_green_bed.PREFIX: Giường xanh lá cây
+block_green_carpet.PREFIX: Thảm xanh lá cây
+block_green_concrete.PREFIX: Bê tông xanh lá cây
+block_green_concrete_powder.PREFIX: Bột bê tông xanh lá cây
+block_green_glazed_terracotta.PREFIX: Đất nung tráng men xanh lá cây
+block_green_shulker_box.PREFIX: Hộp Shulker xanh lá cây
+block_green_stained_glass.PREFIX: Thủy tinh được nhuộm xanh lá cây
+block_green_stained_glass_pane.PREFIX: Tấm thủy tinh được nhuộm xanh lá cây
+block_green_terracotta.PREFIX: Đất nung xanh lá cây
+block_green_wool.PREFIX: Len xanh lá cây
+block_grindstone.PREFIX: Đá mài
+block_hay_block.PREFIX: Kiện rơm
+block_heavy_weighted_pressure_plate.PREFIX: Đĩa cảm biến áp lực nặng
+block_honey_block.PREFIX: Khối mật ong
+block_honeycomb_block.PREFIX: Khối sáp ong
+block_hopper.PREFIX: Cái phễu
+block_horn_coral.PREFIX: San hô sừng
+block_horn_coral_block.PREFIX: Khối san hô sừng
+block_horn_coral_fan.PREFIX: San hô sừng hình quạt
+block_ice.PREFIX: Băng
+block_infested_chiseled_stone_bricks.PREFIX: Gạch đá được đục bị nhiễm khuẩn
+block_infested_cobblestone.PREFIX: Đá cuội bị nhiễm khuẩn
+block_infested_cracked_stone_bricks.PREFIX: Gạch đá nứt bị nhiễm khuẩn
+block_infested_mossy_stone_bricks.PREFIX: Gạch đá phủ rêu bị nhiễm khuẩn
+block_infested_stone.PREFIX: Đá bị nhiễm khuẩn
+block_infested_stone_bricks.PREFIX: Gạch đá bị nhiễm khuẩn
+block_iron_bars.PREFIX: Hàng rào sắt
+block_iron_block.PREFIX: Khối sắt
+block_iron_door.PREFIX: Cửa sắt
+block_iron_ore.PREFIX: Quặng sắt
+block_iron_trapdoor.PREFIX: Cửa sập sắt
+block_jack_o_lantern.PREFIX: Đèn bí ngô
+block_jigsaw.PREFIX: Khối mảnh ghép
+block_jukebox.PREFIX: Hộp chơi nhạc
+block_jungle_button.PREFIX: Nút gỗ rừng
+block_jungle_door.PREFIX: Cửa gỗ rừng
+block_jungle_fence.PREFIX: Hàng rào gỗ rừng
+block_jungle_fence_gate.PREFIX: Cổng rào gỗ rừng
+block_jungle_leaves.PREFIX: Lá rừng
+block_jungle_log.PREFIX: Thân cây rừng
+block_jungle_planks.PREFIX: Ván gỗ rừng
+block_jungle_pressure_plate.PREFIX: Đĩa cảm biến áp lực gỗ rừng
+block_jungle_sapling.PREFIX: Chồi cây rừng
+block_jungle_sign.PREFIX: Tấm biển gỗ rừng
+block_jungle_slab.PREFIX: Phiến gỗ rừng
+block_jungle_stairs.PREFIX: Cầu thang gỗ rừng
+block_jungle_trapdoor.PREFIX: Cửa sập gỗ rừng
+block_jungle_wood.PREFIX: Gỗ rừng
+block_kelp.PREFIX: Tảo bẹ
+block_ladder.PREFIX: Thang
+block_lantern.PREFIX: Đèn lồng
+block_lapis_block.PREFIX: Khối ngọc lưu ly
+block_lapis_ore.PREFIX: Quặng ngọc lưu ly
+block_large_fern.PREFIX: Dương xỉ lớn
+block_lectern.PREFIX: Bục để sách
+block_lever.PREFIX: Cần gạt
+block_light_blue_banner.PREFIX: Cờ hiệu xanh nước biển nhạt
+block_light_blue_bed.PREFIX: Giường xanh nước biển nhạt
+block_light_blue_carpet.PREFIX: Thảm xanh nước biển nhạt
+block_light_blue_concrete.PREFIX: Bê tông xanh nước biển nhạt
+block_light_blue_concrete_powder.PREFIX: Bột bê tông xanh nước biển nhạt
+block_light_blue_glazed_terracotta.PREFIX: Đất nung tráng men xanh nước biển nhạt
+block_light_blue_shulker_box.PREFIX: Hộp Shulker xanh nước biển nhạt
+block_light_blue_stained_glass.PREFIX: Thủy tinh được nhuộm xanh nước biển nhạt
+block_light_blue_stained_glass_pane.PREFIX: Tấm thủy tinh được nhuộm xanh nước biển nhạt
+block_light_blue_terracotta.PREFIX: Đất nung xanh nước biển nhạt
+block_light_blue_wool.PREFIX: Len xanh nhạt
+block_light_gray_banner.PREFIX: Cờ hiệu xám nhạt
+block_light_gray_bed.PREFIX: Giường xám nhạt
+block_light_gray_carpet.PREFIX: Thảm xám nhạt
+block_light_gray_concrete.PREFIX: Bê tông xám nhạt
+block_light_gray_concrete_powder.PREFIX: Bột bê tông xám nhạt
+block_light_gray_glazed_terracotta.PREFIX: Đất nung tráng men xám nhạt
+block_light_gray_shulker_box.PREFIX: Hộp Shulker xám nhạt
+block_light_gray_stained_glass.PREFIX: Thủy tinh được nhuộm xám nhạt
+block_light_gray_stained_glass_pane.PREFIX: Tấm thủy tinh được nhuộm xám nhạt
+block_light_gray_terracotta.PREFIX: Đất nung xám nhạt
+block_light_gray_wool.PREFIX: Len xám nhạt
+block_light_weighted_pressure_plate.PREFIX: Đĩa cảm biến áp lực nhẹ
+block_lilac.PREFIX: Tử đinh hương
+block_lily_of_the_valley.PREFIX: Linh lan
+block_lily_pad.PREFIX: Lá súng
+block_lime_banner.PREFIX: Cờ hiệu xanh lá mạ
+block_lime_bed.PREFIX: Giường xanh lá mạ
+block_lime_carpet.PREFIX: Thảm xanh lá mạ
+block_lime_concrete.PREFIX: Bê tông xanh lá mạ
+block_lime_concrete_powder.PREFIX: Bột bê tông xanh lá mạ
+block_lime_glazed_terracotta.PREFIX: Đất nung tráng men xanh lá mạ
+block_lime_shulker_box.PREFIX: Hộp Shulker xanh lá mạ
+block_lime_stained_glass.PREFIX: Thủy tinh được nhuộm xanh lá mạ
+block_lime_stained_glass_pane.PREFIX: Tấm thủy tinh được nhuộm xanh lá mạ
+block_lime_terracotta.PREFIX: Đất nung xanh lá mạ
+block_lime_wool.PREFIX: Len xanh lá mạ
+block_loom.PREFIX: Khung cửi
+block_magenta_banner.PREFIX: Cờ hiệu đỏ sậm
+block_magenta_bed.PREFIX: Giường đỏ sậm
+block_magenta_carpet.PREFIX: Thảm đỏ sậm
+block_magenta_concrete.PREFIX: Bê tông đỏ sậm
+block_magenta_concrete_powder.PREFIX: Bột bê tông đỏ sậm
+block_magenta_glazed_terracotta.PREFIX: Đất nung tráng men đỏ sậm
+block_magenta_shulker_box.PREFIX: Hộp Shulker đỏ sậm
+block_magenta_stained_glass.PREFIX: Thủy tinh được nhuộm đỏ sậm
+block_magenta_stained_glass_pane.PREFIX: Tấm thủy tinh được nhuộm đỏ sậm
+block_magenta_terracotta.PREFIX: Đất nung đỏ sậm
+block_magenta_wool.PREFIX: Len đỏ sậm
+block_magma_block.PREFIX: Khối dung nham
+block_melon.PREFIX: Dưa hấu
+block_mossy_cobblestone.PREFIX: Đá cuội phủ rêu
+block_mossy_cobblestone_slab.PREFIX: Phiến đá cuội phủ rêu
+block_mossy_cobblestone_stairs.PREFIX: Cầu thang đá cuội phủ rêu
+block_mossy_cobblestone_wall.PREFIX: Tường đá cuội phủ rêu
+block_mossy_stone_brick_slab.PREFIX: Phiến gạch đá phủ rêu
+block_mossy_stone_brick_stairs.PREFIX: Cầu thang gạch đá phủ rêu
+block_mossy_stone_brick_wall.PREFIX: Tường gạch đá phủ rêu
+block_mossy_stone_bricks.PREFIX: Gạch đá phủ rêu
+block_mushroom_stem.PREFIX: Thân nấm
+block_mycelium.PREFIX: Khuẩn ty thể
+block_nether_brick_fence.PREFIX: Hàng rào gạch Nether
+block_nether_brick_slab.PREFIX: Phiến gạch Nether
+block_nether_brick_stairs.PREFIX: Cầu thang gạch Nether
+block_nether_brick_wall.PREFIX: Tường gạch Nether
+block_nether_bricks.PREFIX: Gạch Nether
+block_nether_quartz_ore.PREFIX: Quặng thạch anh Nether
+block_nether_wart.PREFIX: Bướu Nether
+block_nether_wart_block.PREFIX: Khối bướu Nether
+block_netherrack.PREFIX: Netherrack
+block_note_block.PREFIX: Khối nốt nhạc
+block_oak_button.PREFIX: Nút gỗ sồi
+block_oak_door.PREFIX: Cửa gỗ sồi
+block_oak_fence.PREFIX: Hàng rào gỗ sồi
+block_oak_fence_gate.PREFIX: Cổng rào gỗ sồi
+block_oak_leaves.PREFIX: Lá sồi
+block_oak_log.PREFIX: Thân cây sồi
+block_oak_planks.PREFIX: Ván gỗ sồi
+block_oak_pressure_plate.PREFIX: Đĩa cảm biến áp lực gỗ sồi
+block_oak_sapling.PREFIX: Chồi cây sồi
+block_oak_sign.PREFIX: Tấm biển gỗ sồi
+block_oak_slab.PREFIX: Phiến gỗ sồi
+block_oak_stairs.PREFIX: Cầu thang gỗ sồi
+block_oak_trapdoor.PREFIX: Cửa sập gỗ sồi
+block_oak_wood.PREFIX: Gỗ sồi
+block_observer.PREFIX: Khối theo dõi
+block_obsidian.PREFIX: Hắc diện thạch
+block_orange_banner.PREFIX: Cờ hiệu cam
+block_orange_bed.PREFIX: Giường cam
+block_orange_carpet.PREFIX: Thảm cam
+block_orange_concrete.PREFIX: Bê tông cam
+block_orange_concrete_powder.PREFIX: Bột bê tông cam
+block_orange_glazed_terracotta.PREFIX: Đất nung tráng men cam
+block_orange_shulker_box.PREFIX: Hộp Shulker cam
+block_orange_stained_glass.PREFIX: Thủy tinh được nhuộm cam
+block_orange_stained_glass_pane.PREFIX: Tấm thủy tinh được nhuộm cam
+block_orange_terracotta.PREFIX: Đất nung cam
+block_orange_tulip.PREFIX: Uất kim hương cam
+block_orange_wool.PREFIX: Len cam
+block_oxeye_daisy.PREFIX: Cúc trắng
+block_packed_ice.PREFIX: Băng nén
+block_peony.PREFIX: Mẫu đơn
+block_petrified_oak_slab.PREFIX: Phiến gỗ sồi bị hóa đá
+block_pink_banner.PREFIX: Cờ hiệu hồng
+block_pink_bed.PREFIX: Giường hồng
+block_pink_carpet.PREFIX: Thảm hồng
+block_pink_concrete.PREFIX: Bê tông hồng
+block_pink_concrete_powder.PREFIX: Bột bê tông hồng
+block_pink_glazed_terracotta.PREFIX: Đất nung tráng men hồng
+block_pink_shulker_box.PREFIX: Hộp Shulker hồng
+block_pink_stained_glass.PREFIX: Thủy tinh được nhuộm hồng
+block_pink_stained_glass_pane.PREFIX: Tấm thủy tinh được nhuộm hồng
+block_pink_terracotta.PREFIX: Đất nung hồng
+block_pink_tulip.PREFIX: Uất kim hương hồng
+block_pink_wool.PREFIX: Len hồng
+block_piston.PREFIX: Pít-tông
+block_player_head.PREFIX: Đầu người chơi
+block_player_head_named.PREFIX: Cái đầu của %s
+block_podzol.PREFIX: Đất podzol
+block_polished_andesite.PREFIX: Đá andesit được đánh bóng
+block_polished_andesite_slab.PREFIX: Phiến đá andesit được đánh bóng
+block_polished_andesite_stairs.PREFIX: Cầu thang đá andesit được đánh bóng
+block_polished_diorite.PREFIX: Đá diorit được đánh bóng
+block_polished_diorite_slab.PREFIX: Phiến đá diorit được đánh bóng
+block_polished_diorite_stairs.PREFIX: Cầu thang đá diorit được đánh bóng
+block_polished_granite.PREFIX: Đá hoa cương được đánh bóng
+block_polished_granite_slab.PREFIX: Phiến đá hoa cương được đánh bóng
+block_polished_granite_stairs.PREFIX: Cầu thang đá hoa cương được đánh bóng
+block_poppy.PREFIX: Anh túc
+block_powered_rail.PREFIX: Đường ray tăng tốc
+block_prismarine.PREFIX: Lăng trụ biển
+block_prismarine_brick_slab.PREFIX: Phiến gạch lăng trụ biển
+block_prismarine_brick_stairs.PREFIX: Cầu thang gạch lăng trụ biển
+block_prismarine_bricks.PREFIX: Gạch lăng trụ biển
+block_prismarine_slab.PREFIX: Phiến lăng trụ biển
+block_prismarine_stairs.PREFIX: Cầu thang lăng trụ biển
+block_prismarine_wall.PREFIX: Tường lăng trụ biển
+block_pumpkin.PREFIX: Bí ngô
+block_purple_banner.PREFIX: Cờ hiệu tím
+block_purple_bed.PREFIX: Giường tím
+block_purple_carpet.PREFIX: Thảm tím
+block_purple_concrete.PREFIX: Bê tông tím
+block_purple_concrete_powder.PREFIX: Bột bê tông tím
+block_purple_glazed_terracotta.PREFIX: Đất nung tráng men tím
+block_purple_shulker_box.PREFIX: Hộp Shulker tím
+block_purple_stained_glass.PREFIX: Thủy tinh được nhuộm tím
+block_purple_stained_glass_pane.PREFIX: Tấm thủy tinh được nhuộm tím
+block_purple_terracotta.PREFIX: Đất nung tím
+block_purple_wool.PREFIX: Len tím
+block_purpur_block.PREFIX: Khối purpur
+block_purpur_pillar.PREFIX: Cột trụ purpur
+block_purpur_slab.PREFIX: Phiến purpur
+block_purpur_stairs.PREFIX: Cầu thang purpur
+block_quartz_block.PREFIX: Khối thạch anh
+block_quartz_pillar.PREFIX: Cột trụ thạch anh
+block_quartz_slab.PREFIX: Phiến thạch anh
+block_quartz_stairs.PREFIX: Cầu thang thạch anh
+block_rail.PREFIX: Đường ray
+block_red_banner.PREFIX: Cờ hiệu đỏ
+block_red_bed.PREFIX: Giường đỏ
+block_red_carpet.PREFIX: Thảm đỏ
+block_red_concrete.PREFIX: Bê tông đỏ
+block_red_concrete_powder.PREFIX: Bột bê tông đỏ
+block_red_glazed_terracotta.PREFIX: Đất nung tráng men đỏ
+block_red_mushroom.PREFIX: Nấm đỏ
+block_red_mushroom_block.PREFIX: Khối nấm đỏ
+block_red_nether_brick_slab.PREFIX: Phiến gạch Nether đỏ
+block_red_nether_brick_stairs.PREFIX: Cầu thang gạch Nether đỏ
+block_red_nether_brick_wall.PREFIX: Tường gạch Nether đỏ
+block_red_nether_bricks.PREFIX: Gạch Nether đỏ
+block_red_sand.PREFIX: Cát đỏ
+block_red_sandstone.PREFIX: Cát kết đỏ
+block_red_sandstone_slab.PREFIX: Phiến cát kết đỏ
+block_red_sandstone_stairs.PREFIX: Cầu thang cát kết đỏ
+block_red_sandstone_wall.PREFIX: Tường cát kết đỏ
+block_red_shulker_box.PREFIX: Hộp Shulker đỏ
+block_red_stained_glass.PREFIX: Thủy tinh được nhuộm đỏ
+block_red_stained_glass_pane.PREFIX: Tấm thủy tinh được nhuộm đỏ
+block_red_terracotta.PREFIX: Đất nung đỏ
+block_red_tulip.PREFIX: Uất kim hương đỏ
+block_red_wool.PREFIX: Len đỏ
+block_redstone_block.PREFIX: Khối Redstone
+block_redstone_lamp.PREFIX: Đèn Redstone
+block_redstone_ore.PREFIX: Quặng Redstone
+block_redstone_torch.PREFIX: Đuốc Redstone
+block_repeater.PREFIX: Bộ lặp Redstone
+block_repeating_command_block.PREFIX: Khối điều khiển lặp lại
+block_rose_bush.PREFIX: Bụi hoa hồng
+block_sand.PREFIX: Cát
+block_sandstone.PREFIX: Cát kết
+block_sandstone_slab.PREFIX: Phiến cát kết
+block_sandstone_stairs.PREFIX: Cầu thang cát kết
+block_sandstone_wall.PREFIX: Tường cát kết
+block_scaffolding.PREFIX: Giàn giáo
+block_sea_lantern.PREFIX: Đèn biển
+block_sea_pickle.PREFIX: Dưa muối biển
+block_seagrass.PREFIX: Cỏ biển
+block_shulker_box.PREFIX: Hộp Shulker
+block_skeleton_skull.PREFIX: Đầu lâu bộ xương
+block_slime_block.PREFIX: Khối chất nhờn
+block_smithing_table.PREFIX: Bàn rèn
+block_smoker.PREFIX: Lò hun khói
+block_smooth_quartz.PREFIX: Thạch anh mịn
+block_smooth_quartz_slab.PREFIX: Phiến thạch anh mịn
+block_smooth_quartz_stairs.PREFIX: Cầu thang thạch anh mịn
+block_smooth_red_sandstone.PREFIX: Cát kết đỏ mịn
+block_smooth_red_sandstone_slab.PREFIX: Phiến cát kết đỏ mịn
+block_smooth_red_sandstone_stairs.PREFIX: Cầu thang cát kết đỏ mịn
+block_smooth_sandstone.PREFIX: Cát kết mịn
+block_smooth_sandstone_slab.PREFIX: Phiến cát kết mịn
+block_smooth_sandstone_stairs.PREFIX: Cầu thang cát kết mịn
+block_smooth_stone.PREFIX: Đá mịn
+block_smooth_stone_slab.PREFIX: Phiến đá mịn
+block_snow.PREFIX: Tuyết
+block_snow_block.PREFIX: Khối tuyết
+block_soul_sand.PREFIX: Cát linh hồn
+block_spawner.PREFIX: Lồng triệu hồi
+block_sponge.PREFIX: Miếng bọt biển
+block_spruce_button.PREFIX: Nút gỗ vân sam
+block_spruce_door.PREFIX: Cửa gỗ vân sam
+block_spruce_fence.PREFIX: Hàng rào gỗ vân sam
+block_spruce_fence_gate.PREFIX: Cổng rào gỗ vân sam
+block_spruce_leaves.PREFIX: Lá vân sam
+block_spruce_log.PREFIX: Thân cây vân sam
+block_spruce_planks.PREFIX: Ván gỗ vân sam
+block_spruce_pressure_plate.PREFIX: Đĩa cảm biến áp lực gỗ vân sam
+block_spruce_sapling.PREFIX: Chồi cây vân sam
+block_spruce_sign.PREFIX: Tấm biển gỗ vân sam
+block_spruce_slab.PREFIX: Phiến gỗ vân sam
+block_spruce_stairs.PREFIX: Cầu thang gỗ vân sam
+block_spruce_trapdoor.PREFIX: Cửa sập gỗ vân sam
+block_spruce_wood.PREFIX: Gỗ vân sam
+block_sticky_piston.PREFIX: Pít-tông dính
+block_stone.PREFIX: Đá
+block_stone_brick_slab.PREFIX: Phiến gạch đá
+block_stone_brick_stairs.PREFIX: Cầu thang gạch đá
+block_stone_brick_wall.PREFIX: Tường gạch đá
+block_stone_bricks.PREFIX: Gạch đá
+block_stone_button.PREFIX: Nút đá
+block_stone_pressure_plate.PREFIX: Đĩa cảm biến áp lực bằng đá
+block_stone_slab.PREFIX: Phiến đá
+block_stone_stairs.PREFIX: Cầu thang đá
+block_stonecutter.PREFIX: Máy cắt đá
+block_stripped_acacia_log.PREFIX: Thân cây xiêm gai đã cạo vỏ
+block_stripped_acacia_wood.PREFIX: Gỗ xiêm gai đã cạo vỏ
+block_stripped_birch_log.PREFIX: Thân cây bạch dương đã cạo vỏ
+block_stripped_birch_wood.PREFIX: Gỗ bạch dương đã cạo vỏ
+block_stripped_dark_oak_log.PREFIX: Thân cây sồi sẫm đã cạo vỏ
+block_stripped_dark_oak_wood.PREFIX: Gỗ sồi sẫm đã cạo vỏ
+block_stripped_jungle_log.PREFIX: Thân cây rừng đã cạo vỏ
+block_stripped_jungle_wood.PREFIX: Gỗ rừng đã cạo vỏ
+block_stripped_oak_log.PREFIX: Thân cây sồi đã cạo vỏ
+block_stripped_oak_wood.PREFIX: Gỗ sồi đã cạo vỏ
+block_stripped_spruce_log.PREFIX: Thân cây vân sam đã cạo vỏ
+block_stripped_spruce_wood.PREFIX: Gỗ vân sam đã cạo vỏ
+block_structure_block.PREFIX: Khối cấu trúc
+block_structure_void.PREFIX: Cấu trúc trống
+block_sugar_cane.PREFIX: Cây mía
+block_sunflower.PREFIX: Hướng dương
+block_tall_grass.PREFIX: Cỏ cao
+block_terracotta.PREFIX: Đất nung
+block_tnt.PREFIX: TNT
+block_torch.PREFIX: Đuốc
+block_trapped_chest.PREFIX: Rương bị kẹt
+block_tripwire_hook.PREFIX: Móc dây bẫy
+block_tube_coral.PREFIX: San hô ống tròn
+block_tube_coral_block.PREFIX: Khối san hô ống tròn
+block_tube_coral_fan.PREFIX: San hô ống tròn hình quạt
+block_turtle_egg.PREFIX: Trứng rùa
+block_vine.PREFIX: Dây leo
+block_wet_sponge.PREFIX: Miếng bọt biển ướt
+block_white_banner.PREFIX: Cờ hiệu trắng
+block_white_bed.PREFIX: Giường trắng
+block_white_carpet.PREFIX: Thảm trắng
+block_white_concrete.PREFIX: Bê tông trắng
+block_white_concrete_powder.PREFIX: Bột bê tông trắng
+block_white_glazed_terracotta.PREFIX: Đất nung tráng men trắng
+block_white_shulker_box.PREFIX: Hộp Shulker trắng
+block_white_stained_glass.PREFIX: Thủy tinh được nhuộm trắng
+block_white_stained_glass_pane.PREFIX: Tấm thủy tinh được nhuộm trắng
+block_white_terracotta.PREFIX: Đất nung trắng
+block_white_tulip.PREFIX: Uất kim hương trắng
+block_white_wool.PREFIX: Len trắng
+block_wither_rose.PREFIX: Hoa hồng Wither
+block_wither_skeleton_skull.PREFIX: Đầu lâu bộ xương Wither
+block_yellow_banner.PREFIX: Cờ hiệu vàng
+block_yellow_bed.PREFIX: Giường vàng
+block_yellow_carpet.PREFIX: Thảm vàng
+block_yellow_concrete.PREFIX: Bê tông vàng
+block_yellow_concrete_powder.PREFIX: Bột bê tông vàng
+block_yellow_glazed_terracotta.PREFIX: Đất nung tráng men vàng
+block_yellow_shulker_box.PREFIX: Hộp Shulker vàng
+block_yellow_stained_glass.PREFIX: Thủy tinh được nhuộm vàng
+block_yellow_stained_glass_pane.PREFIX: Tấm thủy tinh được nhuộm vàng
+block_yellow_terracotta.PREFIX: Đất nung vàng
+block_yellow_wool.PREFIX: Len vàng
+block_zombie_head.PREFIX: Đầu thây ma
+item_acacia_boat.PREFIX: Thuyền gỗ xiêm gai
+item_apple.PREFIX: Táo
+item_armor_stand.PREFIX: Giá để giáp
+item_arrow.PREFIX: Mũi tên
+item_baked_potato.PREFIX: Khoai tây bỏ lò
+item_bat_spawn_egg.PREFIX: Trứng sinh ra Con dơi
+item_bee_spawn_egg.PREFIX: Trứng sinh ra Con ong
+item_beef.PREFIX: Thịt bò sống
+item_beetroot.PREFIX: Củ dền
+item_beetroot_seeds.PREFIX: Hạt củ dền
+item_beetroot_soup.PREFIX: Súp củ dền
+item_birch_boat.PREFIX: Thuyền gỗ bạch dương
+item_black_dye.PREFIX: Bột nhuộm đen
+item_blaze_powder.PREFIX: Bột quỷ lửa
+item_blaze_rod.PREFIX: Que của quỷ lửa
+item_blaze_spawn_egg.PREFIX: Trứng sinh ra Quỷ lửa
+item_blue_dye.PREFIX: Bột nhuộm xanh nước biển
+item_bone.PREFIX: Xương
+item_bone_meal.PREFIX: Bột xương
+item_book.PREFIX: Quyển sách
+item_bow.PREFIX: Cung
+item_bowl.PREFIX: Cái bát
+item_bread.PREFIX: Bánh mì
+item_brick.PREFIX: Viên gạch
+item_brown_dye.PREFIX: Bột nhuộm nâu
+item_bucket.PREFIX: Xô
+item_carrot.PREFIX: Cà rốt
+item_carrot_on_a_stick.PREFIX: Cần câu gắn cà rốt
+item_cat_spawn_egg.PREFIX: Trứng sinh ra Con mèo
+item_cave_spider_spawn_egg.PREFIX: Trứng sinh ra Nhện hang
+item_chainmail_boots.PREFIX: Ủng xích
+item_chainmail_chestplate.PREFIX: Áo xích
+item_chainmail_helmet.PREFIX: Mũ xích
+item_chainmail_leggings.PREFIX: Quần xích
+item_charcoal.PREFIX: Than gỗ
+item_chest_minecart.PREFIX: Xe mỏ có rương
+item_chicken.PREFIX: Thịt gà sống
+item_chicken_spawn_egg.PREFIX: Trứng sinh ra Con gà
+item_chorus_fruit.PREFIX: Quả Chorus
+item_clay_ball.PREFIX: Đất sét
+item_clock.PREFIX: Đồng hồ
+item_coal.PREFIX: Than
+item_cocoa_beans.PREFIX: Hạt ca cao
+item_cod.PREFIX: Cá tuyết sống
+item_cod_bucket.PREFIX: Xô cá tuyết
+item_cod_spawn_egg.PREFIX: Trứng sinh ra Cá tuyết
+item_command_block_minecart.PREFIX: Xe mỏ có khối điều khiển
+item_compass.PREFIX: La bàn
+item_cooked_beef.PREFIX: Bít tết
+item_cooked_chicken.PREFIX: Thịt gà chín
+item_cooked_cod.PREFIX: Cá tuyết chín
+item_cooked_mutton.PREFIX: Thịt cừu chín
+item_cooked_porkchop.PREFIX: Thịt heo chín
+item_cooked_rabbit.PREFIX: Thịt thỏ chín
+item_cooked_salmon.PREFIX: Cá hồi chín
+item_cookie.PREFIX: Bánh quy
+item_cow_spawn_egg.PREFIX: Trứng sinh ra Con bò
+item_creeper_banner_pattern.PREFIX: Hoa văn cờ hiệu
+item_creeper_spawn_egg.PREFIX: Trứng sinh ra Creeper
+item_crossbow.PREFIX: Nỏ
+item_cyan_dye.PREFIX: Bột nhuộm lục lam
+item_dark_oak_boat.PREFIX: Thuyền gỗ sồi sẫm
+item_debug_stick.PREFIX: Gậy gỡ lỗi
+item_diamond.PREFIX: Kim cương
+item_diamond_axe.PREFIX: Rìu kim cương
+item_diamond_boots.PREFIX: Ủng kim cương
+item_diamond_chestplate.PREFIX: Áo kim cương
+item_diamond_helmet.PREFIX: Mũ kim cương
+item_diamond_hoe.PREFIX: Cuốc kim cương
+item_diamond_horse_armor.PREFIX: Giáp ngựa kim cương
+item_diamond_leggings.PREFIX: Quần kim cương
+item_diamond_pickaxe.PREFIX: Cuốc chim kim cương
+item_diamond_shovel.PREFIX: Xẻng kim cương
+item_diamond_sword.PREFIX: Kiếm kim cương
+item_dolphin_spawn_egg.PREFIX: Trứng sinh ra Cá heo
+item_donkey_spawn_egg.PREFIX: Trứng sinh ra Con lừa
+item_dragon_breath.PREFIX: Hơi thở của rồng
+item_dried_kelp.PREFIX: Tảo bẹ khô
+item_drowned_spawn_egg.PREFIX: Trứng sinh ra Kẻ đuối nước
+item_egg.PREFIX: Trứng
+item_elder_guardian_spawn_egg.PREFIX: Trứng sinh ra Giám hộ cao niên
+item_elytra.PREFIX: Cánh cứng
+item_emerald.PREFIX: Ngọc lục bảo
+item_enchanted_book.PREFIX: Sách được phù phép
+item_enchanted_golden_apple.PREFIX: Táo vàng được phù phép
+item_end_crystal.PREFIX: Pha lê End
+item_ender_eye.PREFIX: Mắt của Ender
+item_ender_pearl.PREFIX: Ngọc Ender
+item_enderman_spawn_egg.PREFIX: Trứng sinh ra Người Ender
+item_endermite_spawn_egg.PREFIX: Trứng sinh ra Rận Ender
+item_evoker_spawn_egg.PREFIX: Trứng sinh ra Kẻ chiêu hồn
+item_experience_bottle.PREFIX: Chai kinh nghiệm
+item_feather.PREFIX: Lông
+item_fermented_spider_eye.PREFIX: Mắt nhện được lên men
+item_filled_map.PREFIX: Bản đồ
+item_fire_charge.PREFIX: Cầu lửa
+item_firework_rocket.PREFIX: Pháo hoa
+item_firework_star.PREFIX: Bông pháo hoa
+item_fishing_rod.PREFIX: Cần câu cá
+item_flint.PREFIX: Đá lửa
+item_flint_and_steel.PREFIX: Dụng cụ đánh lửa
+item_flower_banner_pattern.PREFIX: Hoa văn cờ hiệu
+item_fox_spawn_egg.PREFIX: Trứng sinh ra Con cáo
+item_furnace_minecart.PREFIX: Xe mỏ có lò nung
+item_ghast_spawn_egg.PREFIX: Trứng sinh ra Ghast
+item_ghast_tear.PREFIX: Nước mắt Ghast
+item_glass_bottle.PREFIX: Chai thủy tinh
+item_glistering_melon_slice.PREFIX: Lát cắt dưa hấu lấp lánh
+item_globe_banner_pattern.PREFIX: Hoa văn cờ hiệu
+item_glowstone_dust.PREFIX: Bột đá phát sáng
+item_gold_ingot.PREFIX: Phôi vàng
+item_gold_nugget.PREFIX: Hạt vàng
+item_golden_apple.PREFIX: Táo vàng
+item_golden_axe.PREFIX: Rìu vàng
+item_golden_boots.PREFIX: Ủng vàng
+item_golden_carrot.PREFIX: Cà rốt vàng
+item_golden_chestplate.PREFIX: Áo vàng
+item_golden_helmet.PREFIX: Mũ vàng
+item_golden_hoe.PREFIX: Cuốc vàng
+item_golden_horse_armor.PREFIX: Giáp ngựa vàng
+item_golden_leggings.PREFIX: Quần vàng
+item_golden_pickaxe.PREFIX: Cuốc chim vàng
+item_golden_shovel.PREFIX: Xẻng vàng
+item_golden_sword.PREFIX: Kiếm vàng
+item_gray_dye.PREFIX: Bột nhuộm xám
+item_green_dye.PREFIX: Bột nhuộm xanh lá cây
+item_guardian_spawn_egg.PREFIX: Trứng sinh ra Giám hộ
+item_gunpowder.PREFIX: Thuốc súng
+item_heart_of_the_sea.PREFIX: Trái tim biển cả
+item_honey_bottle.PREFIX: Chai mật ong
+item_honeycomb.PREFIX: Sáp ong
+item_hopper_minecart.PREFIX: Xe mỏ có phễu
+item_horse_spawn_egg.PREFIX: Trứng sinh ra Con ngựa
+item_husk_spawn_egg.PREFIX: Trứng sinh ra Quái khô tàn
+item_ink_sac.PREFIX: Túi mực
+item_iron_axe.PREFIX: Rìu sắt
+item_iron_boots.PREFIX: Ủng sắt
+item_iron_chestplate.PREFIX: Áo sắt
+item_iron_helmet.PREFIX: Mũ sắt
+item_iron_hoe.PREFIX: Cuốc sắt
+item_iron_horse_armor.PREFIX: Giáp ngựa sắt
+item_iron_ingot.PREFIX: Phôi sắt
+item_iron_leggings.PREFIX: Quần sắt
+item_iron_nugget.PREFIX: Hạt sắt
+item_iron_pickaxe.PREFIX: Cuốc chim sắt
+item_iron_shovel.PREFIX: Xẻng sắt
+item_iron_sword.PREFIX: Kiếm sắt
+item_item_frame.PREFIX: Khung vật phẩm
+item_jungle_boat.PREFIX: Thuyền gỗ rừng
+item_knowledge_book.PREFIX: Sách kiến thức
+item_lapis_lazuli.PREFIX: Ngọc lưu ly
+item_lava_bucket.PREFIX: Xô dung nham
+item_lead.PREFIX: Dây buộc
+item_leather.PREFIX: Da thuộc
+item_leather_boots.PREFIX: Ủng da
+item_leather_chestplate.PREFIX: Áo da
+item_leather_helmet.PREFIX: Mũ da
+item_leather_horse_armor.PREFIX: Giáp ngựa da
+item_leather_leggings.PREFIX: Quần da
+item_light_blue_dye.PREFIX: Bột nhuộm xanh nhạt
+item_light_gray_dye.PREFIX: Bột nhuộm xám nhạt
+item_lime_dye.PREFIX: Bột nhuộm xanh lá mạ
+item_lingering_potion_effect_awkward.PREFIX: Thuốc kì quặc kéo dài
+item_lingering_potion_effect_empty.PREFIX: Thuốc không thể tạo ra kéo dài
+item_lingering_potion_effect_fire_resistance.PREFIX: Thuốc kháng lửa kéo dài
+item_lingering_potion_effect_harming.PREFIX: Thuốc sát thương kéo dài
+item_lingering_potion_effect_healing.PREFIX: Thuốc hồi máu kéo dài
+item_lingering_potion_effect_invisibility.PREFIX: Thuốc tàng hình kéo dài
+item_lingering_potion_effect_leaping.PREFIX: Thuốc nhảy cao kéo dài
+item_lingering_potion_effect_levitation.PREFIX: Thuốc bay lên kéo dài
+item_lingering_potion_effect_luck.PREFIX: Thuốc may mắn kéo dài
+item_lingering_potion_effect_mundane.PREFIX: Thuốc trần tục kéo dài
+item_lingering_potion_effect_night_vision.PREFIX: Thuốc nhìn trong bóng tối kéo dài
+item_lingering_potion_effect_poison.PREFIX: Thuốc độc kéo dài
+item_lingering_potion_effect_regeneration.PREFIX: Thuốc hồi phục kéo dài
+item_lingering_potion_effect_slow_falling.PREFIX: Thuốc rơi chậm kéo dài
+item_lingering_potion_effect_slowness.PREFIX: Thuốc chậm rãi kéo dài
+item_lingering_potion_effect_strength.PREFIX: Thuốc sức mạnh kéo dài
+item_lingering_potion_effect_swiftness.PREFIX: Thuốc nhanh nhẹn kéo dài
+item_lingering_potion_effect_thick.PREFIX: Thuốc đặc kéo dài
+item_lingering_potion_effect_turtle_master.PREFIX: Thuốc kéo dài của Rùa cụ
+item_lingering_potion_effect_water.PREFIX: Chai nước kéo dài
+item_lingering_potion_effect_water_breathing.PREFIX: Thuốc thở dưới nước kéo dài
+item_lingering_potion_effect_weakness.PREFIX: Thuốc yếu đuối kéo dài
+item_llama_spawn_egg.PREFIX: Trứng sinh ra Lạc đà không bướu
+item_magenta_dye.PREFIX: Bột nhuộm đỏ sậm
+item_magma_cream.PREFIX: Kem dung nham
+item_magma_cube_spawn_egg.PREFIX: Trứng sinh ra Khối dung nham
+item_map.PREFIX: Bản đồ trống
+item_melon_seeds.PREFIX: Hạt dưa hấu
+item_melon_slice.PREFIX: Lát cắt dưa hấu
+item_milk_bucket.PREFIX: Xô sữa
+item_minecart.PREFIX: Xe mỏ
+item_mojang_banner_pattern.PREFIX: Hoa văn cờ hiệu
+item_mooshroom_spawn_egg.PREFIX: Trứng sinh ra Mooshroom
+item_mule_spawn_egg.PREFIX: Trứng sinh ra Con la
+item_mushroom_stew.PREFIX: Súp nấm
+item_music_disc_11.PREFIX: Đĩa nhạc C418 - 11
+item_music_disc_13.PREFIX: Đĩa nhạc C418 - 13
+item_music_disc_blocks.PREFIX: Đĩa nhạc C418 - blocks
+item_music_disc_cat.PREFIX: Đĩa nhạc C418 - cat
+item_music_disc_chirp.PREFIX: Đĩa nhạc C418 - chirp
+item_music_disc_far.PREFIX: Đĩa nhạc C418 - far
+item_music_disc_mall.PREFIX: Đĩa nhạc C418 - mall
+item_music_disc_mellohi.PREFIX: Đĩa nhạc C418 - mellohi
+item_music_disc_stal.PREFIX: Đĩa nhạc C418 - stal
+item_music_disc_strad.PREFIX: Đĩa nhạc C418 - strad
+item_music_disc_wait.PREFIX: Đĩa nhạc C418 - wait
+item_music_disc_ward.PREFIX: Đĩa nhạc C418 - ward
+item_mutton.PREFIX: Thịt cừu sống
+item_name_tag.PREFIX: Nhãn ghi tên
+item_nautilus_shell.PREFIX: Vỏ ốc anh vũ
+item_nether_brick.PREFIX: Gạch Nether
+item_nether_star.PREFIX: Sao Nether
+item_nether_wart.PREFIX: Bướu Nether
+item_oak_boat.PREFIX: Thuyền gỗ sồi
+item_ocelot_spawn_egg.PREFIX: Trứng sinh ra Mèo rừng
+item_orange_dye.PREFIX: Bột nhuộm cam
+item_painting.PREFIX: Tranh vẽ
+item_panda_spawn_egg.PREFIX: Trứng sinh ra Gấu trúc
+item_paper.PREFIX: Giấy
+item_parrot_spawn_egg.PREFIX: Trứng sinh ra Con vẹt
+item_phantom_membrane.PREFIX: Màng da Phantom
+item_phantom_spawn_egg.PREFIX: Trứng sinh ra Phantom
+item_pig_spawn_egg.PREFIX: Trứng sinh ra Con heo
+item_pillager_spawn_egg.PREFIX: Trứng sinh ra Kẻ cướp
+item_pink_dye.PREFIX: Bột nhuộm hồng
+item_poisonous_potato.PREFIX: Khoai tây độc
+item_polar_bear_spawn_egg.PREFIX: Trứng sinh ra Gấu bắc cực
+item_popped_chorus_fruit.PREFIX: Quả Chorus nở bung
+item_porkchop.PREFIX: Thịt heo sống
+item_potato.PREFIX: Khoai tây
+item_potion_effect_awkward.PREFIX: Thuốc kì quặc
+item_potion_effect_empty.PREFIX: Thuốc không tạo ra được
+item_potion_effect_fire_resistance.PREFIX: Thuốc kháng lửa
+item_potion_effect_harming.PREFIX: Thuốc sát thương
+item_potion_effect_healing.PREFIX: Thuốc hồi máu
+item_potion_effect_invisibility.PREFIX: Thuốc tàng hình
+item_potion_effect_leaping.PREFIX: Thuốc nhảy cao
+item_potion_effect_levitation.PREFIX: Thuốc bay lên
+item_potion_effect_luck.PREFIX: Thuốc may mắn
+item_potion_effect_mundane.PREFIX: Thuốc trần tục
+item_potion_effect_night_vision.PREFIX: Thuốc nhìn trong bóng tối
+item_potion_effect_poison.PREFIX: Thuốc độc
+item_potion_effect_regeneration.PREFIX: Thuốc hồi phục
+item_potion_effect_slow_falling.PREFIX: Thuốc rơi chậm
+item_potion_effect_slowness.PREFIX: Thuốc chậm rãi
+item_potion_effect_strength.PREFIX: Thuốc sức mạnh
+item_potion_effect_swiftness.PREFIX: Thuốc nhanh nhẹn
+item_potion_effect_thick.PREFIX: Thuốc đặc
+item_potion_effect_turtle_master.PREFIX: Thuốc của Rùa cụ
+item_potion_effect_water.PREFIX: Chai nước
+item_potion_effect_water_breathing.PREFIX: Thuốc thở dưới nước
+item_potion_effect_weakness.PREFIX: Thuốc yếu đuối
+item_prismarine_crystals.PREFIX: Tinh thể lăng trụ biển
+item_prismarine_shard.PREFIX: Mảnh lăng trụ biển
+item_pufferfish.PREFIX: Cá nóc
+item_pufferfish_bucket.PREFIX: Xô cá nóc
+item_pufferfish_spawn_egg.PREFIX: Trứng sinh ra Cá nóc
+item_pumpkin_pie.PREFIX: Bánh bí ngô
+item_pumpkin_seeds.PREFIX: Hạt bí ngô
+item_purple_dye.PREFIX: Bột nhuộm tím
+item_quartz.PREFIX: Thạch anh Nether
+item_rabbit.PREFIX: Thịt thỏ sống
+item_rabbit_foot.PREFIX: Chân thỏ
+item_rabbit_hide.PREFIX: Da thỏ
+item_rabbit_spawn_egg.PREFIX: Trứng sinh ra Con thỏ
+item_rabbit_stew.PREFIX: Súp thỏ hầm
+item_ravager_spawn_egg.PREFIX: Trứng sinh ra Quái thú cướp bóc
+item_red_dye.PREFIX: Bột nhuộm đỏ
+item_redstone.PREFIX: Bột Redstone
+item_rotten_flesh.PREFIX: Thịt thối rữa
+item_saddle.PREFIX: Yên cưỡi
+item_salmon.PREFIX: Cá hồi sống
+item_salmon_bucket.PREFIX: Xô cá hồi
+item_salmon_spawn_egg.PREFIX: Trứng sinh ra Cá hồi
+item_scute.PREFIX: Vảy
+item_shears.PREFIX: Kéo tỉa
+item_sheep_spawn_egg.PREFIX: Trứng sinh ra Con cừu
+item_shield.PREFIX: Khiên
+item_shield_black.PREFIX: Khiên đen
+item_shield_blue.PREFIX: Khiên xanh nước biển
+item_shield_brown.PREFIX: Khiên nâu
+item_shield_cyan.PREFIX: Khiên lục lam
+item_shield_gray.PREFIX: Khiên xám
+item_shield_green.PREFIX: Khiên xanh lá cây
+item_shield_light_blue.PREFIX: Khiên xanh nước biển nhạt
+item_shield_light_gray.PREFIX: Khiên xám nhạt
+item_shield_lime.PREFIX: Khiên xanh lá mạ
+item_shield_magenta.PREFIX: Khiên đỏ sậm
+item_shield_orange.PREFIX: Khiên cam
+item_shield_pink.PREFIX: Khiên hồng
+item_shield_purple.PREFIX: Khiên tím
+item_shield_white.PREFIX: Khiên trắng
+item_shield_yellow.PREFIX: Khiên vàng
+item_shulker_shell.PREFIX: Vỏ Shulker
+item_shulker_spawn_egg.PREFIX: Trứng sinh ra Shulker
+item_silverfish_spawn_egg.PREFIX: Trứng sinh ra Con nhậy bạc
+item_skeleton_horse_spawn_egg.PREFIX: Trứng sinh ra Ngựa xương
+item_skeleton_spawn_egg.PREFIX: Trứng sinh ra Bộ xương
+item_skull_banner_pattern.PREFIX: Hoa văn cờ hiệu
+item_slime_ball.PREFIX: Bóng nhờn
+item_slime_spawn_egg.PREFIX: Trứng sinh ra Quái vật chất nhờn
+item_snowball.PREFIX: Bóng tuyết
+item_spectral_arrow.PREFIX: Mũi tên ma quỷ
+item_spider_eye.PREFIX: Mắt nhện
+item_spider_spawn_egg.PREFIX: Trứng sinh ra Nhện
+item_splash_potion_effect_awkward.PREFIX: Thuốc kì quặc có thể ném được
+item_splash_potion_effect_empty.PREFIX: Thuốc không thể tạo ra có thể ném được
+item_splash_potion_effect_fire_resistance.PREFIX: Thuốc kháng lửa có thể ném được
+item_splash_potion_effect_harming.PREFIX: Thuốc sát thương có thể ném được
+item_splash_potion_effect_healing.PREFIX: Thuốc hồi máu có thể ném được
+item_splash_potion_effect_invisibility.PREFIX: Thuốc tàng hình có thể ném được
+item_splash_potion_effect_leaping.PREFIX: Thuốc nhảy cao có thể ném được
+item_splash_potion_effect_levitation.PREFIX: Thuốc bay lên có thể ném được
+item_splash_potion_effect_luck.PREFIX: Thuốc may mắn có thể ném được
+item_splash_potion_effect_mundane.PREFIX: Thuốc trần tục có thể ném được
+item_splash_potion_effect_night_vision.PREFIX: Thuốc nhìn trong bóng tối có thể ném được
+item_splash_potion_effect_poison.PREFIX: Thuốc độc có thể ném được
+item_splash_potion_effect_regeneration.PREFIX: Thuốc hồi phục có thể ném được
+item_splash_potion_effect_slow_falling.PREFIX: Thuốc rơi chậm có thể ném được
+item_splash_potion_effect_slowness.PREFIX: Thuốc chậm rãi có thể ném được
+item_splash_potion_effect_strength.PREFIX: Thuốc sức mạnh có thể ném được
+item_splash_potion_effect_swiftness.PREFIX: Thuốc nhanh nhẹn có thể ném được
+item_splash_potion_effect_thick.PREFIX: Thuốc đặc có thể ném được
+item_splash_potion_effect_turtle_master.PREFIX: Thuốc của Rùa cụ có thể ném được
+item_splash_potion_effect_water.PREFIX: Chai nước có thể ném được
+item_splash_potion_effect_water_breathing.PREFIX: Thuốc thở dưới nước có thể ném được
+item_splash_potion_effect_weakness.PREFIX: Thuốc yếu đuối có thể ném được
+item_spruce_boat.PREFIX: Thuyền gỗ van sâm
+item_squid_spawn_egg.PREFIX: Trứng sinh ra Con mực
+item_stick.PREFIX: Gậy
+item_stone_axe.PREFIX: Rìu đá
+item_stone_hoe.PREFIX: Cuốc đá
+item_stone_pickaxe.PREFIX: Cuốc chim đá
+item_stone_shovel.PREFIX: Xẻng đá
+item_stone_sword.PREFIX: Kiếm đá
+item_stray_spawn_egg.PREFIX: Trứng sinh ra Quái lang thang
+item_string.PREFIX: Sợi chỉ
+item_sugar.PREFIX: Đường
+item_suspicious_stew.PREFIX: Súp đáng ngờ
+item_sweet_berries.PREFIX: Quả mọng ngọt
+item_tipped_arrow_effect_awkward.PREFIX: Mũi tên tẩm thuốc
+item_tipped_arrow_effect_empty.PREFIX: Mũi tên tẩm thuốc không chế tạo được
+item_tipped_arrow_effect_fire_resistance.PREFIX: Mũi tên kháng lửa
+item_tipped_arrow_effect_harming.PREFIX: Mũi tên sát thương
+item_tipped_arrow_effect_healing.PREFIX: Mũi tên hồi máu
+item_tipped_arrow_effect_invisibility.PREFIX: Mũi tên tàng hình
+item_tipped_arrow_effect_leaping.PREFIX: Mũi tên nhảy cao
+item_tipped_arrow_effect_levitation.PREFIX: Mũi tên bay lên
+item_tipped_arrow_effect_luck.PREFIX: Mũi tên may mắn
+item_tipped_arrow_effect_mundane.PREFIX: Mũi tên tẩm thuốc
+item_tipped_arrow_effect_night_vision.PREFIX: Mũi tên nhìn trong bóng tối
+item_tipped_arrow_effect_poison.PREFIX: Mũi tên độc
+item_tipped_arrow_effect_regeneration.PREFIX: Mũi tên hồi phục
+item_tipped_arrow_effect_slow_falling.PREFIX: Mũi tên rơi chậm
+item_tipped_arrow_effect_slowness.PREFIX: Mũi tên chậm rãi
+item_tipped_arrow_effect_strength.PREFIX: Mũi tên sức mạnh
+item_tipped_arrow_effect_swiftness.PREFIX: Mũi tên nhanh nhẹn
+item_tipped_arrow_effect_thick.PREFIX: Mũi tên tẩm thuốc
+item_tipped_arrow_effect_turtle_master.PREFIX: Mũi tên của Rùa cụ
+item_tipped_arrow_effect_water.PREFIX: Mũi tên bắn nước
+item_tipped_arrow_effect_water_breathing.PREFIX: Mũi tên thở dưới nước
+item_tipped_arrow_effect_weakness.PREFIX: Mũi tên yếu đuối
+item_tnt_minecart.PREFIX: Xe mỏ có TNT
+item_totem_of_undying.PREFIX: Vật tổ trường sinh
+item_trader_llama_spawn_egg.PREFIX: Trứng sinh ra Lạc đà không bướu của thương nhân
+item_trident.PREFIX: Đinh ba
+item_tropical_fish.PREFIX: Cá nhiệt đới
+item_tropical_fish_bucket.PREFIX: Xô cá nhiệt đới
+item_tropical_fish_spawn_egg.PREFIX: Trứng sinh ra Cá nhiệt đới
+item_turtle_helmet.PREFIX: Mai rùa
+item_turtle_spawn_egg.PREFIX: Trứng sinh ra Con rùa
+item_vex_spawn_egg.PREFIX: Trứng sinh ra Hồn ma bay
+item_villager_spawn_egg.PREFIX: Trứng sinh ra Dân làng
+item_vindicator_spawn_egg.PREFIX: Trứng sinh ra Kẻ biện hộ
+item_wandering_trader_spawn_egg.PREFIX: Trứng sinh ra Thương nhân lang thang
+item_water_bucket.PREFIX: Xô nước
+item_wheat.PREFIX: Lúa mì
+item_wheat_seeds.PREFIX: Hạt lúa mì
+item_white_dye.PREFIX: Bột nhuộm trắng
+item_witch_spawn_egg.PREFIX: Trứng sinh ra Phù thủy
+item_wither_skeleton_spawn_egg.PREFIX: Trứng sinh ra Bộ xương Wither
+item_wolf_spawn_egg.PREFIX: Trứng sinh ra Chó sói
+item_wooden_axe.PREFIX: Rìu gỗ
+item_wooden_hoe.PREFIX: Cuốc gỗ
+item_wooden_pickaxe.PREFIX: Cuốc chim gỗ
+item_wooden_shovel.PREFIX: Xẻng gỗ
+item_wooden_sword.PREFIX: Kiếm gỗ
+item_writable_book.PREFIX: Sách và bút lông
+item_written_book.PREFIX: Sách được viết
+item_yellow_dye.PREFIX: Bột nhuộm vàng
+item_zombie_horse_spawn_egg.PREFIX: Trứng sinh ra Ngựa thây ma
+item_zombie_pigman_spawn_egg.PREFIX: Trứng sinh ra Người lợn thây ma
+item_zombie_spawn_egg.PREFIX: Trứng sinh ra Thây ma
+item_zombie_villager_spawn_egg.PREFIX: Trứng sinh ra Dân làng thây ma
